@@ -14,6 +14,7 @@ This Repo consists of the following files :
 - placeTiles.java
 - printSubsetOfNNaturalnum.java
 - QuickSort.java
+- README.md
 - RemoveDublicate.java
 - ReverseString.java
 - Sample.java
@@ -28,12 +29,10 @@ This Repo consists of the following files :
 
 
 - --->This is a test repository created by @prateek271
+<br><br>
+---
+<br><br>###	Features of the project:
+<br>
 
 
-<vl>
-
-
-
-
-
-- can be used for any file
+-  created by prateek
