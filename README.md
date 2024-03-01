@@ -35,4 +35,4 @@ This Repo consists of the following files :
 <br>
 
 
-- hello world
+- automated commit
