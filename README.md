@@ -33,6 +33,8 @@ This Repo consists of the following files :
 ---
 <br><br>###	Features of the project:
 <br>
+1. This project is automated
+<br>
 
 
-- uses github
+- can be used for any branch
