@@ -1,4 +1,4 @@
-# Beginner-s-Java-Programs
+# beginner-s-java-programs
 This Repo consists of the following files :
 - .git
 - AddTwoNum.java
